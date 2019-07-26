@@ -1,2 +1,2 @@
 <?php
-echo "NAT IoT <=> LINEBOT API";
+echo "xxxxxxIoT <=> LINEBOT API";
